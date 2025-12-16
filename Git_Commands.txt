@@ -1,0 +1,8 @@
+	1. Git init - to initialize an empty git repository, you will get a .git folder (empty repo)
+	2. Git status - to show the repo status
+	3. Git add <filename> - to add file from untracked to staged
+	4. Git rm --cache < filename> - to remove from staged to untracked
+	5. Git add . -> to add all the files in a staged
+	6. Git commit -m "your message" -> from staged to tracked
+	7. Git restore <filename> -> to restore a deleted file.
+    8. Git rm -> to delete a file
