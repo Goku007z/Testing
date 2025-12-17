@@ -14,4 +14,6 @@
 	4. Git remote set-url origin <github generated token>@github.com/<push url path> - to grant access to local pc to push the repo in Github at first time
 	5. Git push origin master - to push the repo from local to github
     6. Git clone <URL from Github> - to clone from github to local
-	
+
+
+fork: github-to-github
