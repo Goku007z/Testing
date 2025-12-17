@@ -6,3 +6,12 @@
 	6. Git commit -m "your message" -> from staged to tracked
 	7. Git restore <filename> -> to restore a deleted file.
     8. Git rm -> to delete a file
+
+	PAT - Personal Access Token
+
+	2. Git remote add origin <github lnk> to add the github account in local
+	3. Git remote -v -> to check the status
+	4. Git remote set-url origin <github generated token>@github.com/<push url path> - to grant access to local pc to push the repo in Github at first time
+	5. Git push origin master - to push the repo from local to github
+    6. Git clone <URL from Github> - to clone from github to local
+	
