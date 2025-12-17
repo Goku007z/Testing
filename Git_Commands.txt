@@ -25,4 +25,6 @@ Branches:
 	3. Git switch <banch name> - to switch to  a different branch
 	4. Git log - to check the latest head
 	5. Git checkout dev - similar to git switch
-	
+
+Feature branch - we can create from every branch above mentioned
+Pull request is a way of merging one branch to anther branch in github
