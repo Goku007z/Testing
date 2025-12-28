@@ -25,6 +25,18 @@ Branches:
 	3. Git switch <banch name> - to switch to  a different branch
 	4. Git log - to check the latest head
 	5. Git checkout dev - similar to git switch
+    6. Git fetch - to clone the branches from github to local
+	7. Git log - to check the latest commit
+	8. Git log  --oneline  - to check the latest commit in one line
+
 
 Feature branch - we can create from every branch above mentioned
 Pull request is a way of merging one branch to anther branch in github
+
+Feature branch - we can create from every branch above mentioned
+
+Pull request is a way of merging one branch to another branch in github
+
+PR - Pull request
+Head - Head represent the latest commit of your repository
+
